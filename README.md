@@ -1,2 +1,2 @@
-# SmartSociety_New
-New Working Smart society app
+# Smart-Society-Applcation-Project
+My smart society application ,Project for Vodafone Idea Internship.
